@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base: '/angry-birds/',
+  base: '/slingshot-game/',
 })
